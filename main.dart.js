@@ -32864,7 +32864,7 @@ r.lN(0,B.F4)}else s.e=1
 if(s.d===4)s.e=s.d=0},
 $S:0}
 A.BA.prototype={
-U(a,b){return new A.tb(B.yn,"Name Your Price",A.aak(null,B.qE),!1,null)}}
+U(a,b){return new A.tb(B.yn,"Check Your Price",A.aak(null,B.qE),!1,null)}}
 A.AM.prototype={
 oL(a){var s=this.b[a]
 if(s==null){this.$ti.c.a(null)
